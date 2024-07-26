@@ -8,9 +8,8 @@ Button1 = "Okay!",
 
 CoreGui:SetCore("SendNotification", {
 Title = "Notifcation",
-Text = "TBO discord server has been copied to your clipboard!",
-Duration = 7,
-Button1 = "Okay!",
+Text = "TBO discord 
+
 })
 
 setclipboard("https://discord.gg/rfBpS7eKUf")
